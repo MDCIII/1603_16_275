@@ -24,7 +24,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:275:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:275:1:1> ;
     skos:prefLabel "Jenin"@eng-Latn ;
-    wdata:q7200235 "PS0101" ;
+    wdata:Q7200235 "PS0101" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -62,7 +62,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:275:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:275:1:1> ;
     skos:prefLabel "Tubas"@eng-Latn ;
-    wdata:q7200235 "PS0105" ;
+    wdata:Q7200235 "PS0105" ;
 .
 
 <urn:mdciii:1603:16:275:2:110>
@@ -74,7 +74,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:275:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:275:1:1> ;
     skos:prefLabel "Tulkarm"@eng-Latn ;
-    wdata:q7200235 "PS0110" ;
+    wdata:Q7200235 "PS0110" ;
 .
 
 <urn:mdciii:1603:16:275:2:115>
@@ -86,7 +86,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:275:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:275:1:1> ;
     skos:prefLabel "Nablus"@eng-Latn ;
-    wdata:q7200235 "PS0115" ;
+    wdata:Q7200235 "PS0115" ;
 .
 
 <urn:mdciii:1603:16:275:2:120>
@@ -98,7 +98,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:275:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:275:1:1> ;
     skos:prefLabel "Qalqilya"@eng-Latn ;
-    wdata:q7200235 "PS0120" ;
+    wdata:Q7200235 "PS0120" ;
 .
 
 <urn:mdciii:1603:16:275:2:125>
@@ -110,7 +110,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:275:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:275:1:1> ;
     skos:prefLabel "Salfit"@eng-Latn ;
-    wdata:q7200235 "PS0125" ;
+    wdata:Q7200235 "PS0125" ;
 .
 
 <urn:mdciii:1603:16:275:2:130>
@@ -122,7 +122,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:275:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:275:1:1> ;
     skos:prefLabel "Ramallah"@eng-Latn ;
-    wdata:q7200235 "PS0130" ;
+    wdata:Q7200235 "PS0130" ;
 .
 
 <urn:mdciii:1603:16:275:2:135>
@@ -134,7 +134,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:275:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:275:1:1> ;
     skos:prefLabel "Jericho"@eng-Latn ;
-    wdata:q7200235 "PS0135" ;
+    wdata:Q7200235 "PS0135" ;
 .
 
 <urn:mdciii:1603:16:275:2:140>
@@ -146,7 +146,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:275:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:275:1:1> ;
     skos:prefLabel "Jerusalem"@eng-Latn ;
-    wdata:q7200235 "PS0140" ;
+    wdata:Q7200235 "PS0140" ;
 .
 
 <urn:mdciii:1603:16:275:2:145>
@@ -158,7 +158,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:275:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:275:1:1> ;
     skos:prefLabel "Bethlehem"@eng-Latn ;
-    wdata:q7200235 "PS0145" ;
+    wdata:Q7200235 "PS0145" ;
 .
 
 <urn:mdciii:1603:16:275:2:150>
@@ -170,7 +170,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:275:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:275:1:1> ;
     skos:prefLabel "Hebron"@eng-Latn ;
-    wdata:q7200235 "PS0150" ;
+    wdata:Q7200235 "PS0150" ;
 .
 
 <urn:mdciii:1603:16:275:2:255>
@@ -182,7 +182,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:275:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:275:1:2> ;
     skos:prefLabel "North Gaza"@eng-Latn ;
-    wdata:q7200235 "PS0255" ;
+    wdata:Q7200235 "PS0255" ;
 .
 
 <urn:mdciii:1603:16:275:2:260>
@@ -194,7 +194,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:275:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:275:1:2> ;
     skos:prefLabel "Gaza"@eng-Latn ;
-    wdata:q7200235 "PS0260" ;
+    wdata:Q7200235 "PS0260" ;
 .
 
 <urn:mdciii:1603:16:275:2:265>
@@ -206,7 +206,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:275:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:275:1:2> ;
     skos:prefLabel "Deir Al-Balah"@eng-Latn ;
-    wdata:q7200235 "PS0265" ;
+    wdata:Q7200235 "PS0265" ;
 .
 
 <urn:mdciii:1603:16:275:2:270>
@@ -218,7 +218,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:275:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:275:1:2> ;
     skos:prefLabel "Khan Younis"@eng-Latn ;
-    wdata:q7200235 "PS0270" ;
+    wdata:Q7200235 "PS0270" ;
 .
 
 <urn:mdciii:1603:16:275:2:275>
@@ -230,6 +230,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:275:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:275:1:2> ;
     skos:prefLabel "Rafah"@eng-Latn ;
-    wdata:q7200235 "PS0275" ;
+    wdata:Q7200235 "PS0275" ;
 .
 
